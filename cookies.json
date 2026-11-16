@@ -1,4 +1,12 @@
 {
-  "etp_rt": "45a618d7-d434-4e65-988e-0c9c5d4ed9f0",
-  "etp_rt": "45a618d7-d434-4e65-988e-0c9c5d4ed9f0"
+  "boton1": {
+    "name": "etp_rt",
+    "value": "45a618d7-d434-4e65-988e-0c9c5d4ed9f0",
+    "domain": ".crunchyroll.com"
+  },
+  "boton2": {
+    "name": "etp_rt",
+    "value": "45a618d7-d434-4e65-988e-0c9c5d4ed9f0",
+    "domain": ".crunchyroll.com"
+  }
 }
